@@ -4,11 +4,17 @@
 En este proyecto se aplican técnicas de reducción de dimensionalidad (PCA) y agrupamiento (Clustering) sobre el dataset "Penguins" de seaborn. Este dataset contiene características físicas de tres especies de pingüinos.
 
 Descripción de las variables:
+
 species: Adelie, Chinstrap, Gentoo
+
 island: Biscoe, Dream, Torgersen
+
 bill_length_mm: Longitud del pico en milímetros
+
 flipper_length_mm: Longitud de la aleta en milímetros
+
 body_mass_g: Masa corporal del pingüino en gramos
+
 sex: Male, Female
 
 2. PREPROCESAMIENTO

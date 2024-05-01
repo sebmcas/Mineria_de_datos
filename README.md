@@ -1,4 +1,4 @@
-# Análisis de Pingüinos con PCA y Clustering
+# Análisis PCA y Clustering
 
 1. INTRODUCCIÓN
 

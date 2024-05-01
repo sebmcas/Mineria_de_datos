@@ -10,6 +10,7 @@ bill_length_mm: Longitud del pico en milímetros
 flipper_length_mm: Longitud de la aleta en milímetros
 body_mass_g: Masa corporal del pingüino en gramos
 sex: Male, Female
+
 2. PREPROCESAMIENTO
 En esta sección se realiza un análisis exploratorio y limpieza del dataset, preparando la data para la aplicación del PCA y clustering en secciones posteriores.
 
